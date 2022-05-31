@@ -1,5 +1,5 @@
 ---
-layout: "page"
+layout: posts
 meta: "Jekyll Pages"
 categories: jekyll
 source: "Mike Dane Youtube"

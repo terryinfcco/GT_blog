@@ -1,5 +1,5 @@
 ---
-layout: "page"
+layout: posts
 meta: "Run Flask"
 categories: "flask"
 source: "Codemy.com Youtube"

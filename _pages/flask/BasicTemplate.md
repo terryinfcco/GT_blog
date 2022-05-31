@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 meta: 'Flask Basic Template'
 categories: "flask"
 source: "Codemy.com Youtube"

@@ -1,5 +1,5 @@
 ---
-layout: "page"
+layout: posts
 meta: "Basic Template Flask Tech With Tim"
 categories: "flask"
 source: "Tech With Tim Youtube"
