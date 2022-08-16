@@ -1,0 +1,13 @@
+current directory: /home/terry/github/GT_blog/vendor/bundle/ruby/3.0.0/gems/json-2.6.2/ext/json
+/usr/bin/ruby -I /usr/lib/ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/terry/github/GT_blog/vendor/bundle/ruby/3.0.0/gems/json-2.6.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20220816-12847-99s2gq sitelibdir\=./.gem.20220816-12847-99s2gq clean
+
+current directory: /home/terry/github/GT_blog/vendor/bundle/ruby/3.0.0/gems/json-2.6.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20220816-12847-99s2gq sitelibdir\=./.gem.20220816-12847-99s2gq
+make: Nothing to be done for 'all'.
+
+current directory: /home/terry/github/GT_blog/vendor/bundle/ruby/3.0.0/gems/json-2.6.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20220816-12847-99s2gq sitelibdir\=./.gem.20220816-12847-99s2gq install

@@ -1,0 +1,17 @@
+current directory: /home/terry/github/GT_blog/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+/usr/bin/ruby -I /usr/lib/ruby/3.0.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/terry/github/GT_blog/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20220816-12847-5n9exi sitelibdir\=./.gem.20220816-12847-5n9exi clean
+
+current directory: /home/terry/github/GT_blog/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20220816-12847-5n9exi sitelibdir\=./.gem.20220816-12847-5n9exi
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/terry/github/GT_blog/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20220816-12847-5n9exi sitelibdir\=./.gem.20220816-12847-5n9exi install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20220816-12847-5n9exi/racc

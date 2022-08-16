@@ -1,0 +1,16 @@
+current directory: /home/terry/github/GT_blog/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/bin/ruby -I /usr/lib/ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/terry/github/GT_blog/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20220816-12847-aw2ez sitelibdir\=./.gem.20220816-12847-aw2ez clean
+
+current directory: /home/terry/github/GT_blog/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20220816-12847-aw2ez sitelibdir\=./.gem.20220816-12847-aw2ez
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/terry/github/GT_blog/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20220816-12847-aw2ez sitelibdir\=./.gem.20220816-12847-aw2ez install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20220816-12847-aw2ez
